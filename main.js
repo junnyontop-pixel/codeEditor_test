@@ -7,3 +7,9 @@ if("hello" === 'hello!'){
 } else {
   console.log("hello!");
 };
+
+hi = true
+
+if(hi){
+  console.log("hi")
+}
