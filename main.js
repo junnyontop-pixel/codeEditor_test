@@ -3,7 +3,7 @@ const hello_world = function hello_world(){
 }
 
 if("hello" === 'hello!'){
-  print("hello");
+  console.log("hello");
 } else {
-  print("hello!");
+  console.log("hello!");
 };
